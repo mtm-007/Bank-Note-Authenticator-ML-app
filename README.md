@@ -29,25 +29,3 @@ Our Model performs fairly well with an accuracy of 99% and an F1 Score of 95% an
 * [Swagger UI](https://swagger.io/tools/swagger-ui/)
 * [Docker](https://www.docker.com/)
 
-
-
-
-## Frontend Using Streamlit
-
-![image](Datasets/stream.png)
-
-1.Run your Streamlit App
-
-```sh
-streamlit run {Name_of_Your_Streamlit_App}.py
-
-```
-
-For this Project Run this CMD:
-
-`streamlit run Streamlit_App.py`
-
-
-
-
-     
